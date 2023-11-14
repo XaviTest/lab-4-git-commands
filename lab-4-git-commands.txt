@@ -27,3 +27,4 @@ Exercise 5: Making More Changes
 Exercise 6: Reviewing Commit History
 1. Use `git log` to view the updated commit history. You should now see the new commits you made.
 Paste them here:
+something
